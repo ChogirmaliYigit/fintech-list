@@ -2,92 +2,106 @@
 
 Welcome to the Awesome Fintech List repository! Here, you'll find a curated list of fintech companies, apps, and tools.
 
-<details>
-<summary><strong>Uzbekistan</strong></summary>
+- **Uzbekistan**
+    - Apps
+      * A-pay
+      * Agrobank Mobile
+      * Alliance
+      * Alif mobi
+      * Anorbank
+      * Apex Bank
+      * Asakabank
+      * Beepul
+      * Click-up
+      * Davr mobile
+      * Garantbank Mobile
+      * Hamkorbank Mobile
+      * Humans
+      * Ipak Yo’li Mobile
+      * Ipoteka-Retail
+      * InfinBank
+      * Joyda
+      * Kapitalbank
+      * KDBUz Mobile
+      * Limon Pay
+      * Mavrid
+      * Madad Invest Business
+      * MKBANK Mobile
+      * Milliy
+      * MilliyPay
+      * MobilPay
+      * Multicard
+      * MyTuron
+      * Octo-Mobile
+      * OFB
+      * Open Muddatli to'lov
+      * OSON
+      * PayLov
+      * Payme
+      * Paynet
+      * Paysend
+      * PayWay
+      * Plum
+      * Poytaxt Mobile Business
+      * Quant
+      * QQB Mobile Banking
+      * Smartbank.uz
+      * Solfy
+      * Soliq
+      * TBC UZ
+      * Tenge24
+      * TrastPay
+      * UzEx Money
+      * Uzum bank
+      * Uzum Nasiya
+      * Unired Mobile
+      * Universal Mobile
+      * UPay
+      * xazna
+      * Yangi Finance
+      * Ziraat Mobile Uzbekistan
+      * ZoodPay
+      * Zoomrad
 
-<details>
-<summary><strong>Apps</strong></summary>
+    - Banks
+      * [O'ZMILLIYBANK](https://nbu.uz)
+      * [Xalq Banki](https://xb.uz)
+      * [Asakabank](https://asakabank.uz)
+      * [ASIA ALLIANCE BANK](https://aab.uz)
+      * [Poytaxt Bank](https://poytaxtbank.uz)
+      * [Madad Invest Bank](https://madadinvestbank.uz)
+      * [Ipoteka-bank](https://ipotekabank.uz)
+      * [Sanoat qurilish bank](https://sqb.uz)
+      * [Agrobank](https://agrobank.uz)
+      * [Qishloq qurilish bank](https://qishloqqurilishbank.uz)
+      * [Turon bank](https://turonbank.uz)
+      * [Mikrokreditbank](https://mikrokreditbank.uz)
+      * [Aloqabank](https://aloqabank.uz)
+      * [Ipak Yo'li bank](https://ipakyulibank.uz)
+      * [Kapitalbank](https://kapitalbank.uz)
+      * [Universalbank](https://universalbank.uz)
+      * [AVO BANK](https://avobank.uz)
+      * [Tenge bank](https://tengebank.uz)
+      * [Octobank](https://octobank.uz)
+      * [Garant bank](https://garantbank.uz)
+      * [TBC Bank](https://tbcbank.uz)
+      * [ANOR BANK](https://anorbank.uz)
+      * [UZUM BANK](https://uzumbank.uz)
+      * [SMART BANK](https://smartbank.uz)
+      * [APEXBANK](https://apexbank.uz)
+      * [HAYOT BANK](https://hayotbank.uz)
+      * [YANGI BANK](https://yangibank.uz)
+      * [Trastbank](https://trastbank.uz)
+      * [Davr bank](https://davrbank.uz)
+      * [Orient Finans Bank](https://ofb.uz)
+      * [Infin Bank](https://infinbank.com)
+      * [HAMKORBANK](https://hamkorbank.uz)
+      * [KDB Bank O'zbekiston](https://kdb.uz)
+      * [Ziraat Bank Uzbekistan](https://ziraatbank.uz)
+      * [Saderat Bank Uzbekistan](https://saderatbank.uz)
 
-1. A-pay
-2. Agrobank Mobile
-3. Alliance
-4. Alif mobi
-5. Anorbank
-6. Apex Bank
-7. Asakabank
-8. Beepul
-9. Click-up
-10. Davr mobile
-11. Garantbank Mobile
-12. Hamkorbank Mobile
-13. Humans
-14. Ipak Yo’li Mobile
-15. Ipoteka-Retail
-16. InfinBank
-17. Joyda
-18. Kapitalbank
-19. KDBUz Mobile
-20. Limon Pay
-21. Mavrid
-22. Madad Invest Business
-23. MKBANK Mobile
-24. Milliy (NBU's app)
-25. MilliyPay
-26. MobilPay
-27. Multicard
-28. MyTuron
-29. Octo-Mobile
-30. OFB
-31. Open Muddatli to'lov
-32. OSON
-33. PayLov
-34. Payme
-35. Paynet
-36. Paysend
-37. PayWay
-38. Plum
-39. Poytaxt Mobile Business
-40. Quant
-41. QQB Mobile Banking
-42. Smartbank.uz
-43. Solfy
-44. Soliq
-45. TBC UZ
-46. Tenge24
-47. TrastPay
-48. UzEx Money
-49. Uzum bank
-50. Uzum Nasiya
-51. Unired Mobile
-52. Universal Mobile
-53. UPay
-54. xazna
-55. Yangi Finance
-56. Ziraat Mobile Uzbekistan
-57. ZoodPay
-58. Zoomrad
+    - Companies
+      * _Coming soon..._
 
-</details>
-
-<details>
-<summary><strong>Banks</strong></summary>
-
-_Coming soon..._
-
-</details>
-
-<details>
-<summary><strong>Companies</strong></summary>
-
-_Coming soon..._
-
-</details>
-
-<details>
-<summary><strong>Tools</strong></summary>
-
-_Coming soon..._
-
-</details>
-
-</details>
+    - Tools
+      * _Coming soon..._
