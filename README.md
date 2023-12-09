@@ -1,2 +1,2 @@
-# fintech-list
-A full list of companies, apps, tools, etc that about fintech.
+A full list of companies, apps, and tools that about fintech.
+
