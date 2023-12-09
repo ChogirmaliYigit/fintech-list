@@ -12,60 +12,60 @@ Welcome to the Awesome Fintech List repository! Here, you'll find a curated list
 2. Agrobank Mobile
 3. Alliance
 4. Alif mobi
-4. Anorbank
-5. Apex Bank
-5. Asakabank
-6. Beepul
-7. Click-up
-8. Davr mobile
-9. Garantbank Mobile
-10. Hamkorbank Mobile
-11. Humans
-12. Ipak Yo’li Mobile
-13. Ipoteka-Retail
-14. InfinBank
-15. Joyda
-16. Kapitalbank
-17. KDBUz Mobile
-16. Limon Pay
-17. Mavrid
-18. Madad Invest Business
-18. MKBANK Mobile
-19. Milliy (NBU's app)
-20. MilliyPay
-21. MobilPay
-22. Multicard
-23. MyTuron
-24. Octo-Mobile
-25. OFB
-26. Open Muddatli to'lov
-25. OSON
-26. PayLov
-27. Payme
-28. Paynet
-29. Paysend
-29. PayWay
-30. Plum
-31. Poytaxt Mobile Business
-31. Quant
-32. QQB Mobile Banking
-33. Smartbank.uz
-34. Solfy
-34. Soliq
-32. TBC UZ
-33. Tenge24
-34. TrastPay
-35. UzEx Money
-36. Uzum bank
-37. Uzum Nasiya
-37. Unired Mobile
-38. Universal Mobile
-38. UPay
-39. xazna
-40. Yangi Finance
-41. Ziraat Mobile Uzbekistan
-42. ZoodPay
-40. Zoomrad
+5. Anorbank
+6. Apex Bank
+7. Asakabank
+8. Beepul
+9. Click-up
+10. Davr mobile
+11. Garantbank Mobile
+12. Hamkorbank Mobile
+13. Humans
+14. Ipak Yo’li Mobile
+15. Ipoteka-Retail
+16. InfinBank
+17. Joyda
+18. Kapitalbank
+19. KDBUz Mobile
+20. Limon Pay
+21. Mavrid
+22. Madad Invest Business
+23. MKBANK Mobile
+24. Milliy (NBU's app)
+25. MilliyPay
+26. MobilPay
+27. Multicard
+28. MyTuron
+29. Octo-Mobile
+30. OFB
+31. Open Muddatli to'lov
+32. OSON
+33. PayLov
+34. Payme
+35. Paynet
+36. Paysend
+37. PayWay
+38. Plum
+39. Poytaxt Mobile Business
+40. Quant
+41. QQB Mobile Banking
+42. Smartbank.uz
+43. Solfy
+44. Soliq
+45. TBC UZ
+46. Tenge24
+47. TrastPay
+48. UzEx Money
+49. Uzum bank
+50. Uzum Nasiya
+51. Unired Mobile
+52. Universal Mobile
+53. UPay
+54. xazna
+55. Yangi Finance
+56. Ziraat Mobile Uzbekistan
+57. ZoodPay
+58. Zoomrad
 
 </details>
 
@@ -91,4 +91,3 @@ _Coming soon..._
 </details>
 
 </details>
-
