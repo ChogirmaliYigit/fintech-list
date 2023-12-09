@@ -4,64 +4,64 @@ Welcome to the Awesome Fintech List repository! Here, you'll find a curated list
 
 - **Uzbekistan**
     - Apps
-      * A-pay
-      * Agrobank Mobile
-      * Alliance
-      * Alif mobi
-      * Anorbank
-      * Apex Bank
-      * Asakabank
-      * Beepul
-      * Click-up
-      * Davr mobile
-      * Garantbank Mobile
-      * Hamkorbank Mobile
-      * Humans
-      * Ipak Yo’li Mobile
-      * Ipoteka-Retail
-      * InfinBank
-      * Joyda
-      * Kapitalbank
-      * KDBUz Mobile
-      * Limon Pay
-      * Mavrid
-      * Madad Invest Business
-      * MKBANK Mobile
-      * Milliy
-      * MilliyPay
-      * MobilPay
-      * Multicard
-      * MyTuron
-      * Octo-Mobile
-      * OFB
-      * Open Muddatli to'lov
-      * OSON
-      * PayLov
-      * Payme
-      * Paynet
-      * Paysend
-      * PayWay
-      * Plum
-      * Poytaxt Mobile Business
-      * Quant
-      * QQB Mobile Banking
-      * Smartbank.uz
-      * Solfy
-      * Soliq
-      * TBC UZ
-      * Tenge24
-      * TrastPay
-      * UzEx Money
-      * Uzum bank
-      * Uzum Nasiya
-      * Unired Mobile
-      * Universal Mobile
-      * UPay
-      * xazna
-      * Yangi Finance
-      * Ziraat Mobile Uzbekistan
-      * ZoodPay
-      * Zoomrad
+      * A-pay (<a href="https://store.apple.com/link-to-a-pay-app-for-iphone">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Agrobank Mobile (<a href="https://apps.apple.com/uz/app/agrobank-mobile/id1451292895">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Alliance (<a href="https://apps.apple.com/uz/app/alliance-mobile-banking/id1535751933">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Alif mobi (<a href="https://apps.apple.com/uz/app/alif-mobi-payment-transfers/id1331374853">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Anorbank (<a href="https://apps.apple.com/uz/app/anorbank/id1579623268">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Apex Bank (<a href="https://apps.apple.com/uz/app/apex-bank/id6446653912">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Asakabank (<a href="https://apps.apple.com/uz/app/asakabank/id1574165416">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Beepul (<a href="https://apps.apple.com/uz/app/beepul/id1168589903">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Click-up (<a href="https://apps.apple.com/uz/app/click-up/id768132591">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Davr mobile (<a href="https://apps.apple.com/uz/app/davr-mobile/id1575233851">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Garantbank Mobile (<a href="https://apps.apple.com/uz/app/garant-bank-mobile/id1470033169">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Hamkorbank Mobile (<a href="https://apps.apple.com/uz/app/hamkormobile/id1219223015">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Humans (<a href="https://apps.apple.com/uz/app/humans-uz/id1508198703">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Ipak Yo’li Mobile (<a href="https://apps.apple.com/uz/app/ipak-yoli-mobile/id1436677359">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Ipoteka-Retail (<a href="https://apps.apple.com/uz/app/ipoteka-retail/id1637057203">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * InfinBank (<a href="https://apps.apple.com/uz/app/infinbank/id1454367354">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Joyda (<a href="https://apps.apple.com/uz/app/joyda/id1499606946">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Kapitalbank (<a href="https://apps.apple.com/uz/app/kapitalbank-bank-uzbekistan/id1546213356">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * KDBUz Mobile (<a href="https://apps.apple.com/uz/app/kdbuz-mobile/id6448983924">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Limon Pay (<a href="https://apps.apple.com/uz/app/limon-pay/id1660046783">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Mavrid (<a href="https://apps.apple.com/uz/app/mavrid/id6445884560">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Madad Invest Business (<a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * MKBANK Mobile (<a href="https://apps.apple.com/uz/app/mkb-mobile/id1440132932">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Milliy (<a href="https://apps.apple.com/uz/app/milliy/id1297283006">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * MilliyPay (<a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * MobilPay (<a href="https://apps.apple.com/uz/app/mobilpay/id1510320831">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Multicard (<a href="https://apps.apple.com/uz/app/multicard-jett-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8/id1530741420">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * MyTuron (<a href="https://apps.apple.com/uz/app/my-turon/id1639122039">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Octo-Mobile (<a href="https://apps.apple.com/uz/app/octo-mobile/id1460141475">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * OFB (<a href="https://apps.apple.com/uz/app/ofb/id1496134198">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Open Muddatli to'lov (<a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * OSON (<a href="https://apps.apple.com/uz/app/oson/id1207834182">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * PayLov (<a href="https://apps.apple.com/uz/app/paylov/id6444838542">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Payme (<a href="https://apps.apple.com/uz/app/payme-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B-%D0%B8-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B8/id1093525667">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Paynet (<a href="https://apps.apple.com/uz/app/paynet-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B8/id1307888692">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Paysend (<a href="https://apps.apple.com/uz/app/paysend-money-transfer-app/id1140130413">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * PayWay (<a href="https://apps.apple.com/uz/app/payway-%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B-%D0%BF%D0%BE-%D1%81%D0%BD%D0%B3/id1618972814">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Plum (<a href="https://apps.apple.com/uz/app/plum-uz/id1447849889">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Poytaxt Mobile Business (<a href="https://apps.apple.com/uz/app/poytaxt-mobile/id1488568404">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Quant (<a href="https://apps.apple.com/uz/app/quant-uzbekistan/id1524422825">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * QQB Mobile Banking (<a href="https://apps.apple.com/uz/app/qqb-mobile-banking/id1446723912">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Smartbank.uz (<a href="https://apps.apple.com/uz/app/smartbank-uz/id6446754221">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Solfy (<a href="https://apps.apple.com/uz/app/solfy/id1641669414">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Soliq (<a href="https://apps.apple.com/uz/app/soliq/id1518038410">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * TBC UZ (<a href="https://apps.apple.com/uz/app/tbc-uz-online-mobile-banking/id1450503714">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Tenge24 (<a href="https://apps.apple.com/uz/app/tenge24/id1586139053">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * TrustPay (<a href="https://apps.apple.com/uz/app/trastpay/id6443658536">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * UzEx Money (<a href="https://apps.apple.com/uz/app/uzexmoney/id1578689864">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Uzum bank (<a href="https://apps.apple.com/uz/app/uzum-bank-onlayn-ozbekiston/id1492307726">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Uzum Nasiya (<a href="https://apps.apple.com/uz/app/uzum-nasiya-muddatli-tolov/id1579281935">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Unired Mobile (<a href="https://apps.apple.com/uz/app/unired-%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B/id1547412944">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Universal Mobile (<a href="https://apps.apple.com/uz/app/universal-mobile/id1368502147">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * UPay (<a href="https://apps.apple.com/uz/app/upay-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B8-%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B/id1087694828">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * xazna (<a href="https://apps.apple.com/uz/app/xazna/id1642489915">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Yangi Finance (<a href="https://apps.apple.com/uz/app/yangi-finance/id1644376437">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Ziraat Mobile Uzbekistan (<a href="https://apps.apple.com/uz/app/ziraat-mobile-uzbekistan/id1540767956">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * ZoodPay (<a href="https://apps.apple.com/uz/app/zood-zoodpay-zoodmall/id1281450163">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
+      * Zoomrad (<a href="https://apps.apple.com/uz/app/zoomrad/id1522419775e">App Store <img src="app-store.png" alt="App Store" style="width: 15px;"></a> / <a href="https://store.apple.com/link-to-a-pay-app-for-iphone">Play market <img src="play-market.png" alt="App Store" style="width: 15px;"></a>)
 
     - Banks
       * [O'ZMILLIYBANK](https://nbu.uz)
