@@ -1,5 +1,8 @@
 # Awesome Fintech List
-
+<p align="center">
+<br>
+<a href="https://www.buymeacoffee.com/xalqmazzaqilsin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 Welcome to the Awesome Fintech List repository! Here, you'll find a curated list of fintech companies, apps, and tools.
 
 - **Uzbekistan**
@@ -105,8 +108,3 @@ Welcome to the Awesome Fintech List repository! Here, you'll find a curated list
 
     - Tools
       * _Coming soon..._
-
-<p align="center">
-<br>
-<a href="https://www.buymeacoffee.com/xalqmazzaqilsin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
